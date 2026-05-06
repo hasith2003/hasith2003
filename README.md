@@ -19,7 +19,7 @@
 **🎓 University of Moratuwa** — Electronic & Telecommunication Engineering
 
 **🎯 Focus**
-Real-Time AI · Hardware Acceleration  · Computer Vision · Bio-Signal Processing · Natural Language Processing
+Real-Time AI · Hardware Acceleration  · Computer Vision · Robotics · Bio-Signal Processing · Natural Language Processing
 
 **⚙️ Hardware**
 STM32 (RTOS) · ESP32 · FPGA (Zynq UltraScale+)
@@ -178,10 +178,12 @@ Inverse kinematics for CDPRs, sensor fusion, and autonomous navigation.
 
 **Infrastructure**
 
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 </div>
 
