@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Hasith%20Nettikumara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20%26%20Telecom%20Engineering%20%7C%20AI%20%26%20Embedded%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
 </div>
 
@@ -188,14 +187,6 @@ Inverse kinematics for CDPRs, sensor fusion, and autonomous navigation.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hasith2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasith2003&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -206,6 +197,9 @@ Inverse kinematics for CDPRs, sensor fusion, and autonomous navigation.
 | 🥈 **IEEE CAS SDC 2026** | All-Island 2nd Place · Regional Participant (R10) |
 | 🎯 **DVCON India 2026** | Stage 1 Qualifier · Hardware-optimized multimodal pipelines |
 | 🤝 **IEEE Sri Lanka Section** | Chapter Engagement Coordinator · Student Activities Committee |
+| 🏅 **SLIoT Challenge** | Semifinalist |
+
+
 
 ---
 
