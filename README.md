@@ -38,8 +38,8 @@ I bridge the gap between **High-Level Signal Processing** and **Real-Time Hardwa
 | :--- | :--- |
 | **Languages** | Python, C/C++, Verilog, MATLAB, SQL |
 | **Hardware / CAD** | STM32 (RTOS), ESP32, FPGA (Zynq UltraScale+), Altium Designer |
-| **AI / Signal Processing** | PyTorch, TensorFlow, STFT, Adaptive Filtering, GNNs |
-| **Infrastructure** | Linux, Git, Docker, Google Cloud Run, Firebase |
+| **AI / Signal Processing** | PyTorch, TensorFlow, STFT, Adaptive Filtering|
+| **Infrastructure** | Linux, Git, Docker|
 
 ---
 
@@ -52,6 +52,6 @@ I bridge the gap between **High-Level Signal Processing** and **Real-Time Hardwa
 
 ## 📫 Let's Connect
 - **Email:** [hasithnettikumara@gmail.com](mailto:hasithnettikumara@gmail.com)
-- **LinkedIn:** [hasith-nettikumara](https://www.linkedin.com/in/hasith-nettikumara)
+- **LinkedIn:** [hasith-nettikumara](https://www.linkedin.com/in/hasith-nettikumara-4b2150273/)
 
 ---
