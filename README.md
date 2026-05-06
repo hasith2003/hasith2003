@@ -17,20 +17,22 @@
 
 ## 👋 About Me
 
-```python
-class Hasith:
-    university   = "University of Moratuwa 🎓"
-    degree       = "Electronic & Telecommunication Engineering"
-    focus        = ["Real-Time AI", "Hardware Acceleration", "Bio-Signal Intelligence"]
-    hardware     = ["STM32 (RTOS)", "ESP32", "FPGA (Zynq UltraScale+)"]
-    languages    = ["Python", "C/C++", "Verilog", "MATLAB", "SQL"]
-    currently_on = "Cable-Driven Parallel Robot (CDPR) Platform 🦾"
+**🎓 University of Moratuwa** — Electronic & Telecommunication Engineering
 
-    def mission(self):
-        return "Bridging high-level signal processing with real-time hardware."
-```
+**🎯 Focus**
+Real-Time AI · Hardware Acceleration  · Computer Vision · Bio-Signal Processing · Natural Language Processing
 
----
+**⚙️ Hardware**
+STM32 (RTOS) · ESP32 · FPGA (Zynq UltraScale+)
+
+**💻 Languages**
+Python · C/C++ · Verilog · MATLAB · SQL
+
+**🔧 Currently building**
+Cable-Driven Parallel Robot (CDPR) Platform 🦾
+
+**💡 Mission**
+Bridging high-level signal processing with real-time hardware.
 
 ## 🔬 Core Expertise
 
@@ -108,18 +110,20 @@ Inverse kinematics for CDPRs, sensor fusion, and autonomous navigation.
 <summary><b>🦾 Cable-Driven Parallel Robot (CDPR) Platform</b> &nbsp;—&nbsp; <i>University of Moratuwa · EDR Project</i></summary>
 <br>
 
-> 8-cable, 6-DOF precision robotic platform with real-time computer vision control.
+> 8-cable, 3-DOF precision robotic platform with real-time computer vision control.
 
 | Layer | Details |
 |---|---|
 | **Mechanics** | Modular 8-cable parallel robot, custom high-current power distribution |
 | **Electronics** | High-speed **PCB-based motor drivers** (custom Altium design) |
-| **Control** | Real-time **inverse kinematics** + Jacobian-based 6-DOF movement |
+| **Control** | Real-time **inverse kinematics** + Jacobian-based 3-DOF movement |
 | **Perception** | Closed-loop sensor fusion + computer vision integration |
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
 
 </details>
 
