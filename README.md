@@ -26,15 +26,6 @@ I bridge the gap between **High-Level Signal Processing** and **Real-Time Hardwa
 - **The Tech:** A distributed architecture utilizing a pocket-mounted **Raspberry Pi 5** for heavy processing and a wrist-integrated **ESP32-S3** for motor control.
 - **Focus:** Designed specifically for transradial amputees with 5-10cm of residual forearm.
 
-### 🛰️ [Phoenix CubeSat: Communication Subsystem](https://github.com/hasith2003)
-*Joint Project by SPARK (E-Club) and SEDS Mora*
-- **The Role:** Subsystem Co-Lead focusing on **Software Defined Radio (SDR)** and **LoRa protocols**.
-- **Challenge:** Ensuring robust data transmission links in a high-stress satellite environment.
-
-### 🧠 [Hybrid Deep Learning for Seizure Detection](https://github.com/hasith2003)
-- **The AI:** Built hybrid **CNN-LSTM-GCN** architectures to model spatial brain connectivity from EEG signals.
-- **Metric:** Achieved 82%+ accuracy on the CHB-MIT dataset using multi-scale temporal features.
-
 ---
 
 ## 🛠 Tech Stack
@@ -51,7 +42,6 @@ I bridge the gap between **High-Level Signal Processing** and **Real-Time Hardwa
 - **IEEE Sri Lanka Section:** Chapter Engagement Coordinator (Student Activities Committee).
 - **IEEE CAS SDC 2026:** Regional Participant (R10) & All Island 2nd Place.
 - **DVCON India 2026:** Stage 1 Qualifier (Hardware-optimized multimodal pipelines).
-- **Academic Achievement:** Ranked **99th in Sri Lanka** for GCE Advanced Levels.
 
 ---
 
@@ -60,4 +50,3 @@ I bridge the gap between **High-Level Signal Processing** and **Real-Time Hardwa
 - **LinkedIn:** [hasith-nettikumara](https://www.linkedin.com/in/hasith-nettikumara)
 
 ---
-*"Engineering the interface between biology and silicon."*
