@@ -197,7 +197,7 @@ Inverse kinematics for CDPRs, sensor fusion, and autonomous navigation.
 | 🏆 Award | 📌 Details |
 |---|---|
 | 🥈 **IEEE CAS SDC 2026** | All-Island 2nd Place · Regional Participant (R10) |
-| 🎯 **DVCON India 2026** | Stage 1 Qualifier · Hardware-optimized multimodal pipelines |
+| 🎯 **DVCON India 2026** | Stage 2 Qualifier · Hardware-optimized multimodal pipelines |
 | 🤝 **IEEE Sri Lanka Section** | Chapter Engagement Coordinator · Student Activities Committee |
 | 🏅 **SLIoT Challenge** | Semifinalist |
 
